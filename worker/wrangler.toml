@@ -5,7 +5,7 @@ compatibility_flags = [ "nodejs_compat" ]
 keep_vars = false
 # if you want use custom_domain, you need to add routes
 routes = [
-    { pattern = "api.idealast.vip", custom_domain = true },
+    { pattern = "api.cxycsx.top", custom_domain = true },
 ]
 
 # if you want deploy worker with frontend assets, you need to add assets
